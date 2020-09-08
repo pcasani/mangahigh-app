@@ -1,5 +1,3 @@
-# mangahigh-app
-
 
 ## Recipes API
 This is a basic RESTful API that serves as a proxy to an existing weather API
