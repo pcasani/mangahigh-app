@@ -1,6 +1,6 @@
 {
   "name": "Weather API client / proxy",
-  "description": "Client API to access weather data",
+  "description": "Client API to access weather data. Calculate temperature",
   "keywords": [
     "PHP",
     "Guzzle"
