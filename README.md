@@ -8,6 +8,7 @@ It implements generic tests with mocks.
 - Git.
 - Composer.
 - PHP 7.3+.
+- Guzzle
 
 ### Running the app:
 
