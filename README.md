@@ -1,5 +1,8 @@
 
 ## Recipes API
+
+This is an exercise in building a very simple API client without using a framework.
+
 This is a basic RESTful API that serves as a proxy to an existing weather API
 It implements generic tests with mocks.
 
